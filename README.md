@@ -34,20 +34,16 @@ Unlike a classroom assignment, the application evolved through continuous collab
 
 ## Development Process
 
-This project was developed through an iterative process similar to a professional software development lifecycle.
+- **June 11, 2020 - June 29, 2011**
+The tracker evolved through multiple iterations based on feedback from supervisors, and managers.
 
-Throughout development I worked directly with upper management to:
+Throughout development I:
 
-- Gather requirements
-- Demonstrate working prototypes
-- Collect stakeholder feedback
-- Prioritize requested enhancements
-- Refine the application through multiple iterations
-- Improve usability based on real-world usage
-
-Working directly with stakeholders reinforced the importance of communication, iterative development, and designing software around business needs rather than assumptions.
-
----
+- Gathered requirements from leadership and team members
+- Demonstrated working versions to stakeholders
+- Incorporated requested enhancements into future revisions
+- Improved calculations, reporting, and usability based on real-world use
+- Expanded the solution as it was adopted by additional teams
 
 ## Skills Demonstrated
 
